@@ -33,3 +33,5 @@
 
 ## Лицензия
 Данный проект использует компоненты базового ядра обработки и распространяется под лицензией **GNU General Public License v3.0 (GPL-3.0)**.
+Исходный репозиторий: https://github.com/berng/SECIRA_SD_Classifier/tree/main
+Исходная статья: https://arxiv.org/pdf/2506.10305
